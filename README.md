@@ -15,3 +15,17 @@ Steps to run the solution:
 - Import the database.sql inside the database folder to MySQL Databases 
 - Open the index.php file for the solution
 
+
+## Unit Test
+
+Use the [phpUnit] (https://phpunit.de/getting-started/phpunit-9.html) to run unit test.
+```bash
+➜ ./vendor/bin/phpunit tests
+PHPUnit 9.0.0 by Sebastian Bergmann and contributors.
+
+...                                                                 3 / 3 (100%)
+
+Time: 70 ms, Memory: 10.00MB
+
+OK (3 tests, 3 assertions)
+```
