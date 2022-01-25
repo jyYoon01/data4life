@@ -18,7 +18,7 @@ Steps to run the solution:
 
 ## Unit Test
 
-Use the [phpUnit] (https://phpunit.de/getting-started/phpunit-9.html) to run unit test.
+Use the [phpUnit](https://phpunit.de/getting-started/phpunit-9.html) to run unit test.
 ```bash
 ➜ ./vendor/bin/phpunit tests
 PHPUnit 9.0.0 by Sebastian Bergmann and contributors.
